@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #353b48;
+	padding: 10px;
+	color: #fcfcfc;
+}
+
+.kotakbesar {
+	border: 2px solid #fcfcfc;
+	padding: 10px;
+	height: 640px
+}
+
+.judul {
+	padding: 100px;
+	padding-top: 180px;
+}
+
+.box1 {
+	text-align: center;
+}
+
+.col-md-3 {
+	padding: 10px;
+
+}
+
+.box2 {
+	padding-right: 20px;
+	padding-left: 0px;
+	padding-top: 140px;
+}
+
+.kotak {
+	color: #353b48;
+	background-color: #fcfcfc;
+	width: 100%;
+	border: 2px solid #fcfcfc;
+	border-radius: 5px;
+	height: 330px;
+	padding: 10px;
+}
+
+.kolomNim {
+	width: 100%;
+	padding-top: 35px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	box-shadow: 3px;
+}
+
+.username {
+	color: #fcfcfc;
+	width: 100%;
+	background-color: #353b48;
+	border-radius: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	
+}
+
+.username:focus {
+	outline-style: none;
+	border: 3px solid #1d7a7a;
+}
+
+.kolomPass {
+	width: 100%;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 0px;
+	padding-bottom: 35px;
+}
+
+.password {
+	color: #fcfcfc;
+	width: 100%;
+	background-color: #353b48;
+	border-radius: 5px;
+	box-shadow: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.password:focus {
+	outline-style: none;
+	border: 3px solid #1d7a7a;
+}
+
+.tombol {
+	width: 100%;
+	padding: 35px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+}
+
+.login {
+	color: white;
+	width: 100%;
+	height: 35px;
+	border-radius: 50px;
+	background-color: #353b48;
+}
+
+.login:hover {
+	background-color: #1d7a7a;
+}

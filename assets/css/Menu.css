@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+/*	background-color: #cce5ff;*/
+	background-image: url("../image/menu2.jpg");
+	color: white;
+}
+
+.navbar-custom { 
+/*	background-color: #cce5ff; */
+	padding: 0px;
+	height: 50px;
+}
+
+.btn{
+	background-color: #cce6ff;
+	border : none;
+	border-radius: 0px;
+}
+
+.kotakbesar{
+	padding:50px;
+}
+
+.kotak1{
+	background-color: #009999;
+	border: 2px solid #669999;
+	box-shadow: -5px 4px 9px rgba(0,0,0,0.3);
+}
+
+.col-md-4{
+	padding: 10px 20px;
+}
+
+.kelamin{
+	margin-bottom: 10px;
+	width: 325px;
+	border-radius: 2px;
+	border: none;
+}
+
+.button1 {
+  background-color: #006666; 
+  padding: 4px 138px;
+  color: #fcfcfc; 
+  border: 2px solid #0099e6;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.button1:hover {
+  background-color: #00334d;
+  color: white;
+}
+
+.kotak2{
+	margin-top: 40px;
+}
+
+.col-md-6{
+	padding:0px 20px;
+	
+}
+
+.box{
+	background-color: #009999; 
+	border: 2px solid #669999;
+	box-shadow: -5px 4px 9px rgba(0,0,0,0.3);
+}
+
+.kotak3{
+	margin-top: 40px;
+}
